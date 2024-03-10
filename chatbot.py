@@ -4,6 +4,7 @@ CallbackContext)
 import configparser
 import logging
 import redis
+
 global redis1
 from ChatGPT_HKBU import HKBU_ChatGPT
 def main():
